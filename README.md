@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Yogitacore&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20AIML%20Student%20%7C%20Aspiring%20Software%20Developer%20%2F%20AI-ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=220&section=header&text=Yogitacore&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20AIML%20Student%20%7C%20Aspiring%20Software%20Developer%20%2F%20AI-ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Yogitacore">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+AIML+Student;Aspiring+Software+Developer;AI+%2F+ML+Engineer+in+the+making;Building+with+Python+%26+Machine+Learning;Exploring+NLP%2C+OpenCV+%26+GPT;Open+to+Work+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+AIML+Student;Aspiring+Software+Developer;AI+%2F+ML+Engineer+in+the+making;Building+with+Python+%26+Machine+Learning;Exploring+NLP%2C+OpenCV+%26+GPT;Open+to+Work&font=Fira+Code&center=true&width=600&height=45&color=ffb6c1&vCenter=true&size=22&pause=1200"/>
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-ffb6c1?style=for-the-badge&logo=vercel&logoColor=000000"/>
 
-<img src="https://komarev.com/ghpvc/?username=Yogitacore&style=for-the-badge&color=7dd3fc"/>
-<img src="https://img.shields.io/github/followers/Yogitacore?style=for-the-badge&color=7dd3fc&labelColor=1a1a1a"/>
+<img src="https://komarev.com/ghpvc/?username=Yogitacore&style=for-the-badge&color=ffb6c1"/>
+<img src="https://img.shields.io/github/followers/Yogitacore?style=for-the-badge&color=ffb6c1&labelColor=1a1a1a"/>
 
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+## Who I Am
 
 ```typescript
 const yogita = {
@@ -36,13 +36,13 @@ const yogita = {
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📧 AI Spam Email Detector
+### AI Spam Email Detector
 
 Spam email classifier built with a Multinomial Naive Bayes model, served through a Streamlit interface.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogitacore&repo=AI-Spam-Email-Detector&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogitacore&repo=AI-Spam-Email-Detector&theme=radical&border_color=ffb6c1&title_color=ffb6c1&text_color=c9d1d9&icon_color=ffb6c1&bg_color=0d1117"/>
 
 | Layer | Technology |
 |---|---|
@@ -50,11 +50,11 @@ Spam email classifier built with a Multinomial Naive Bayes model, served through
 | Interface | Streamlit |
 | Language | Python |
 
-[🔗 Live Demo](https://ai-spam-email-detector-i2n2adks6cpcm4txqr8v26.streamlit.app/) &nbsp;|&nbsp; [💻 Code](https://github.com/Yogitacore/AI-Spam-Email-Detector)
+[Live Demo](https://ai-spam-email-detector-i2n2adks6cpcm4txqr8v26.streamlit.app/) &nbsp;|&nbsp; [Code](https://github.com/Yogitacore/AI-Spam-Email-Detector)
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -76,55 +76,55 @@ Spam email classifier built with a Multinomial Naive Bayes model, served through
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-7dd3fc?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/NLP-7dd3fc?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-ffb6c1?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/NLP-ffb6c1?style=for-the-badge&logoColor=000000"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-7dd3fc?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/REST%20APIs-ffb6c1?style=for-the-badge&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
-<img src="https://img.shields.io/badge/LM%20Studio-7dd3fc?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LM%20Studio-ffb6c1?style=for-the-badge&logoColor=000000"/>
 <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yogitacore&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogitacore&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yogitacore&show_icons=true&theme=radical&border_color=ffb6c1&title_color=ffb6c1&text_color=c9d1d9&icon_color=ffb6c1&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogitacore&layout=compact&theme=radical&border_color=ffb6c1&title_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img src="https://streak-stats.demolab.com/?user=Yogitacore&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0d1117"/>
+<img src="https://streak-stats.demolab.com/?user=Yogitacore&theme=radical&border=ffb6c1&ring=ffb6c1&fire=ffb6c1&background=0d1117"/>
 
 </div>
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yogitacore&no-frame=true&no-bg=true&theme=nord&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yogitacore&no-frame=true&no-bg=true&theme=radical&column=7"/>
 </div>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogitacore&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogitacore&theme=radical&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=ffffff"/>
 </div>
 
 <br/>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="mailto:25bai71070@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 <a href="https://github.com/Yogitacore">
-  <img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
